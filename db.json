@@ -25,11 +25,11 @@
   "products": [
     {
       "id": 1,
-      "name": "LED display",
-      "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-      "price": 92,
+      "name": "Chisinau de seara",
+      "description": "Ciocolata neagra cu prune.",
+      "price": 250,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "https://i.simpalsmedia.com/marketplace/products/original/664d691f2857b49cd7ced9052473c3a6.jpg"
     },
     {
       "id": 2,
